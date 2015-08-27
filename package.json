@@ -1,8 +1,8 @@
 {
-  "name": "literallycanvas",
+  "name": "literallycanvas-npm",
   "version": "0.4.7",
   "description": "HTML5 drawing widget",
-  "main": "index.js",
+  "main": "js/literallycanvas.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
